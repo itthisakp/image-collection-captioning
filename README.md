@@ -1,6 +1,6 @@
 # Image Collection Captioning
 
-This is the dataset for image collection caption which is extent from <a href="https://cocodataset.org/#home" target="_blank">MS-COCO</a> dataset. This dataset is part of the paper [1].
+This is the dataset for image collection caption, which is the extent of the <a href="https://cocodataset.org/#home" target="_blank">MS-COCO</a> dataset. This dataset is part of the paper.
 
 ## Dataset
 
